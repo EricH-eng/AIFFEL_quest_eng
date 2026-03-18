@@ -48,10 +48,3 @@ AIFFEL_quest_eng
 │       ├── Py02  
 │       ├── Py03  
 │       └── Py04  
-├── lost+found  
-├── project  
-│   └── first-repository  
-│       └── README.md  
-└── workplace  
-    └── README.md  
-```
