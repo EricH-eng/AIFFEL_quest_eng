@@ -1,0 +1,16 @@
+.venv/
+.venv312/
+.github/
+__pycache__/
+.ipynb_checkpoints/
+scripts/
+
+# Local data and generated model artifacts
+NLP/NLP03/data/
+NLP/NLP03/*_corpus.txt
+NLP/NLP03/*_spm.model
+NLP/NLP03/*_spm.vocab
+
+# Windows accidental file
+nul
+scripts/
