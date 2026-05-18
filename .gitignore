@@ -6,10 +6,10 @@ __pycache__/
 scripts/
 
 # Local data and generated model artifacts
-NLP/NLP03/data/
-NLP/NLP03/*_corpus.txt
-NLP/NLP03/*_spm.model
-NLP/NLP03/*_spm.vocab
+**/data/
+*_corpus.txt
+*_spm.model
+*_spm.vocab
 
 # Windows accidental file
 nul
